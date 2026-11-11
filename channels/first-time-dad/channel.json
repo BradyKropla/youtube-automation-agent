@@ -1,0 +1,50 @@
+{
+  "name": "first-time-dad",
+  "description": "Faceless channel for expecting and new fathers: hospital and pregnancy prep, first months, family money, and dad productivity.",
+  "profile": {
+    "channelName": "Day One Dad",
+    "goal": "Reach YouTube Partner Program eligibility and build affiliate and template income by publishing search-led, genuinely useful guides for first-time dads.",
+    "targetAudience": "Expecting and new first-time fathers aged 25 to 40, mostly in Canada and the US, searching for practical answers in the months before and after a first birth.",
+    "brandVoice": "Calm, practical, lightly funny first-time dad sharing what he learned. Short sentences, specific numbers, honest about what he would skip. Talks to one dad, not a crowd. Never preachy, never fearmongering.",
+    "defaultStyle": "list",
+    "callToAction": "Subscribe for the next step in the Day One Dad series, and grab the free checklist linked in the description.",
+    "visualStyle": "Faceless. Warm neutral palette with one accent colour, clean motion graphics, top-down shots of objects and hands, simple charts and checklists. No baby faces, no people's faces, no home interiors, no stock-photo babies.",
+    "timezone": "America/Toronto",
+    "bannedTopics": [
+      "guaranteed return",
+      "guaranteed returns",
+      "get rich quick",
+      "risk-free investment",
+      "can't lose money",
+      "this is financial advice",
+      "this is medical advice",
+      "co-sleeping is safe",
+      "skip the car seat",
+      "our home address",
+      "our baby's name is"
+    ]
+  },
+  "strategy": {
+    "objective": "Grow a faceless first-time-dad channel to YouTube Partner Program eligibility (1,000 subscribers plus 4,000 public watch hours, or the current threshold on YouTube Help) while earning affiliate income from gear, finance and productivity tools. Every video must answer one specific search question better than existing videos.",
+    "audience": "Expecting and new first-time fathers aged 25 to 40 in Canada and the US, searching around the birth for what to buy, what it costs, how to prepare, and how to plan family finances.",
+    "valueProposition": "The dad's decision-making angle that mother-led and vlog channels skip: exactly what to pack, buy, skip, plan and budget, with real numbers, Canadian specifics (EI parental leave, RESP, CESG) and US notes (529, FMLA).",
+    "contentPillars": [
+      "Pregnancy prep for dads: trimester-by-trimester to-dos and how to support your partner",
+      "Hospital and birth day: hospital bag, what dads actually do, first 72 hours home",
+      "Gear decisions: what to buy, what to skip, real costs",
+      "Family money: baby costs, parental leave pay, RESP or 529, life insurance, wills, budgeting",
+      "Dad productivity: night shifts, shared calendars, meal prep, routines on little sleep"
+    ],
+    "cadencePerWeek": 2,
+    "videosPerRun": 2,
+    "defaultFormat": "list",
+    "defaultLength": "medium",
+    "successMetric": "Watch hours toward Partner Program eligibility, with click-through rate above 5% and average view duration above 40%.",
+    "primaryKpi": "watch_hours",
+    "targetValue": 4000,
+    "targetWindowDays": 365,
+    "monthlyBudget": 50,
+    "outcomeCurrency": "CAD",
+    "constraints": "Faceless only: voiceover over motion graphics, charts, checklists and hands-and-objects B-roll; never show or name a real baby or family member, home, hospital or location. Hook in the first 15 seconds that restates the search question and promises a specific payoff. Title under 60 characters with the main keyword in the first half. Money and legal topics are general information, not advice: say so once on screen, use official government figures (canada.ca, CRA, IRS, SSA) with the year, and never promise returns or recommend a specific product or policy. Medical and safety topics (infant sleep, car seats, feeding, pregnancy symptoms) must cite official sources (Health Canada, Transport Canada, CDC, AAP, Canadian Paediatric Society) and tell viewers to check with their doctor; no medical claims. Disclose affiliate links in the video and description. Vary structure between videos; no templated read-aloud content. Include a Canadian and a US note where rules differ."
+  }
+}

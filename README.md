@@ -127,6 +127,7 @@ Details are in the [feature guide](docs/features.md#automation-schedule).
 - [AI providers](docs/providers.md): text, narration, image, and video providers with keys and limits.
 - [API reference](docs/api.md): every HTTP route the dashboard server exposes, for example `POST /generate` with `x-api-key`.
 - [Troubleshooting](docs/troubleshooting.md): fixes for setup, sign-in, and generation problems.
+- [Channel presets](channels/first-time-dad/README.md): a ready-to-load profile and strategy for a faceless first-time-dad channel, loaded with `npm run channel:apply`.
 - [Changelog](CHANGELOG.md) and [releases](https://github.com/darkzOGx/youtube-automation-agent/releases).
 
 The three problems people hit most:
